@@ -1,8 +1,3 @@
-git branch -M main
-git push -u origin main
-
-
-
 from PIL import Image, ImageDraw, ImageTk
 import os, tkinter as tk
 from tkinter import filedialog
